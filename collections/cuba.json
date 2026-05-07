@@ -1,0 +1,315 @@
+{
+  "responseHeader":{
+    "status":0,
+    "QTime":1,
+    "params":{
+      "q":"source_collection:\"c431e202-fc5b-46c8-b188-00901e1e215a\"",
+      "indent":"on",
+      "fl":"id,title",
+      "rows":"1000",
+      "wt":"json"}},
+  "response":{"numFound":98,"start":0,"docs":[
+      {
+        "id":"Mi0yMjUwZWRiNC04MDY2LTQyMDEtYjExNi1kMDI0MTVmNjY5NDc=",
+        "title":"Plan of sugar centrals on island of Cuba"},
+      {
+        "id":"Mi1lNTFlZjExMC0yZWU1LTRiOGItOTJmNC00NjFhNjI3OWNlNzk=",
+        "title":"Republica de Cuba: map of the central highway and auxiliary roads = mapa de la carreteras auxiliares"},
+      {
+        "id":"Mi05YjEwYzc4My05YTAxLTRlZDktYjE5NS00MmM0OGE2NGI0NmQ=",
+        "title":"Soil map of Cuba: 1928"},
+      {
+        "id":"Mi00ZDk3ZGIxOC02ODEzLTQyMWItODdjNy1lYjFlNThjZGFiZDM=",
+        "title":"Cuba"},
+      {
+        "id":"Mi00Y2NhNDdjNi02ZDIxLTQ4ZGItOGE5OS1lMGJjNjg4YzE1MTE=",
+        "title":"Matanzas"},
+      {
+        "id":"Mi05NDVjYThjZC0wNzgzLTQ3MWItYTdjMS04MmM2M2ZlNGQ2NDA=",
+        "title":"Mapa mudo de la isla de Cuba"},
+      {
+        "id":"Mi1kY2ExMmEwNy0zYjFmLTQ0ODYtYjEwNi0yZjU0ZDAyZGQ5NGY=",
+        "title":"Cuba"},
+      {
+        "id":"Mi1mZGYwMGY5Mi1mNzc1LTQyZmYtYTdhNS1hMDA2Yjg3NDFlZmM=",
+        "title":"Hammond's map of Cuba"},
+      {
+        "id":"Mi05MmJmMjg5MS0yNTE4LTRhZWItYjI1ZS1iYmNjNzc2YmYzOTQ=",
+        "title":"Pinar del Rio"},
+      {
+        "id":"Mi1kOGM0MDAxNC1kODNmLTQ0OTUtOTE5Yy01OGYxOTQxMTgxY2M=",
+        "title":"Cuban administrative units"},
+      {
+        "id":"Mi00MjBiNmU1Zi03OGMzLTRkYjEtOTRlMy1iNTdmN2Y3NDQ0M2Y=",
+        "title":"Plano de la Ciudad de Guantanamo: Censo 1953"},
+      {
+        "id":"Mi02MTUxN2Y1MS00YjQ5LTRmMGEtYTZhZS1jZjU4MDUwMGIxNzY=",
+        "title":"Cuba"},
+      {
+        "id":"Mi0yNTI1ZDdhMi1mNGY5LTQ2ZDQtODlmNi02ZGZjY2IzMDQwYTc=",
+        "title":"Cuba, administrative divisions"},
+      {
+        "id":"Mi1kN2JjMzA2ZC0yZjhmLTQ5OGQtYmFiMi0wNTI4NjI0NTg1OTQ=",
+        "title":"La Habana, guía general de la ciudad"},
+      {
+        "id":"Mi1lOGE0N2VhZS0yZDcyLTQyMzItYTE5Zi01Y2ZiYjU3MzUyMjk=",
+        "title":"Republica ed Cuba Provincia de Matanzas"},
+      {
+        "id":"Mi00YjZjY2UzNy05MDlmLTQ3OWQtYTdlMS0wZjIxYzIyYTE3MzY=",
+        "title":"Republica de Cuba Provincia de la Habana"},
+      {
+        "id":"Mi0xYmYzNjdjMy04ZmVjLTRlNTctYjIxZi1lOTA4NTY5Njk4ZjM=",
+        "title":"Santa Clara"},
+      {
+        "id":"Mi1hZWRiNTIwOS0yMmJhLTQyMGYtYTE3ZC1mMmQxNjY4NjA2Yzg=",
+        "title":"Camaguey"},
+      {
+        "id":"Mi00OTk2MTIyNC1kMGJhLTQyNTUtYWFjNi1kOWI2NDc5YmMzYTM=",
+        "title":"United Fruit Sugar Company, Preston Division, division map"},
+      {
+        "id":"Mi0xMGU0ODQzOS1lNTAyLTQyOTYtOGE5Yy03NjIxY2FlMjYxZTQ=",
+        "title":"Cuba, Jamaica and the Bahama Islands"},
+      {
+        "id":"Mi1mZDYyZTJjZC1kNjBmLTRhMmUtYTI4OC03YmM1ZjZkMzIxNzU=",
+        "title":"Plano de la Habana"},
+      {
+        "id":"Mi1iYWZiNTlkNS02MjU1LTRjZTEtYjYzNy1hMTA5MzI5Y2Q5MTY=",
+        "title":"Habana"},
+      {
+        "id":"Mi1hM2E5MGMxNi1kYTI4LTRmODktOWI4OC0yYjhkMDVhZWEyYmU=",
+        "title":"Mapa de Cuba"},
+      {
+        "id":"Mi1kNzJiOWM5ZS01N2VhLTRkZGEtOTE0MS1kZWMxMjgyZDNkNWI=",
+        "title":"Carta de la república de Cuba"},
+      {
+        "id":"Mi05ZGY1YjQwZC1mNWQyLTRhMjctODgwOS00NmViNjM0NjAzYjM=",
+        "title":"Peninsula de Zapata"},
+      {
+        "id":"Mi05OWZjNDc4ZS0zZDNjLTRkNTMtOTgxOC1iM2RhZDFmMTYxYzQ=",
+        "title":"Cuba"},
+      {
+        "id":"Mi0wMTY2MWQ0Yy1lOWFmLTQ5ODYtYmRlYi0zM2U5NjQxMjIzYzk=",
+        "title":"Isla de Cuba"},
+      {
+        "id":"Mi0zNWE4MWM0ZS0xN2M1LTRlNTAtOTBmYi0wZDFmNTc3MTBmMTg=",
+        "title":"Map of Cuba Compiled from Chart E U.S. Coast and Geodetic Survey"},
+      {
+        "id":"Mi05NzdkOWNjMS1kZGIxLTQyYjEtODQxMi0zMjU0NjczZGVkNmI=",
+        "title":"Westindien und Zentralamerika"},
+      {
+        "id":"Mi1mMjQ0Y2YwZS01Y2E2LTQ4ZjYtYTcwMC0zMmI2NGM2ZGVjNWM=",
+        "title":"Johnson's Cuba, Jamaica and Porto Rico"},
+      {
+        "id":"Mi05MTgzNGQ0NS00ZmNhLTQxYTItOWRjNy03ZGRhMDhjN2ExOTg=",
+        "title":"Cuba, Jamaica and Porto Rico"},
+      {
+        "id":"Mi00MmMxM2NjYS1lMjMwLTRiYzctYjIwYy03OTIwMDZiNWE5NDg=",
+        "title":"Carte du Mexique et pays limitrophes situés au nord et à l'est"},
+      {
+        "id":"Mi1kNGJjODVkMC00MzI0LTQ4NGUtYjU0NS00NmFhNzE1YTgyY2U=",
+        "title":"Los suelos y la agricultura en los municipios de San Antonio de Los Baños, La Salud y Quivicán"},
+      {
+        "id":"Mi01OTNhN2RhZS03MGQwLTRlNmEtYjU1Mi0xZTNkNTNkMWZhYmQ=",
+        "title":"Los Suelos y la agricultura en los municipios de San Cristobal y Los Palacios"},
+      {
+        "id":"Mi1lNDQxOGU4Mi1kYjZhLTQxNTctOGMwOS1iMWI5ZTY5NzNjNWU=",
+        "title":"Los Suelos y la agricultura en los municipios de Alquizar y de Güira de Melena"},
+      {
+        "id":"Mi00ZjMzOGE1Ny1hZmRkLTQ3NjItYmVkOC05ZjQ2OWM2NGIzYWU=",
+        "title":"Cuba 1:50,000: Santiago de Cuba"},
+      {
+        "id":"Mi0yMjg5MjMyOS1hMjBhLTQyNWQtYjYzNi1hZWYzMGJhMmMzMDI=",
+        "title":"Los Suelos y la agricultura en el municipio de Candelaria"},
+      {
+        "id":"Mi1lNzk2NmY3OS01NTY2LTRhYmYtOWFlMC02MjQxM2U4YTBiYWI=",
+        "title":"Los Suelos y la agricultura en el municipio de Artemisa"},
+      {
+        "id":"Mi00MTdiYjBjMi1mNDc0LTQyMWMtOWMxYi1iNzVlMmFhZjcwMGI=",
+        "title":"Map of principal railroads of Cuba"},
+      {
+        "id":"Mi0zYzMzMTBkZi0yOTRiLTQ3YWUtODU1Ny0wYTNhODlhYjBiMTQ=",
+        "title":"War map and history of Cuba: including the opening of the American-Spanish War"},
+      {
+        "id":"Mi04NGMzZDdmNy1jYzIzLTQ5ZTUtYjVmZC03MTMxNjI1YzBmNjE=",
+        "title":"Cuba"},
+      {
+        "id":"Mi00NWFjNzRmYi04MTY1LTRhNDUtOTY5NS1kZjQ5Y2FmNDA4MGE=",
+        "title":"Map of Cuba: its provinces, railroads, cities, towns, harbors, bays, etc. also southern Florida and neighboring islands of the West Indies"},
+      {
+        "id":"Mi1jM2MxOWI5Yi1iZDQ0LTRjNDctOGYyNC04NDZjNzk1ODc0ZDE=",
+        "title":"Mapa de las carreteras de la República de Cuba"},
+      {
+        "id":"Mi01NzAwOWE0NC1hMGUwLTQ2NzEtYTE4MS0yYWQyZjBiMWI0MWU=",
+        "title":"Cuba"},
+      {
+        "id":"Mi1kNTdmY2E1MC1iZWUzLTRiZGUtYTFkNy1iMzgzZGRhYmYxMGY=",
+        "title":"Cuba"},
+      {
+        "id":"Mi0yZmJmYjhkMS1kNTEwLTQ4MTAtOTBlNC02MGI4ZmYxZjZlYzU=",
+        "title":"Official war maps: latest indexed map of the world, Cuba, Santo Domingo, Puerto Rico, West Indies, China and Philippine Islands, also other information of national interest"},
+      {
+        "id":"Mi0wMDY0YTZhYi1mYzc0LTRhMDUtYTk1ZS0xNzJjMDM1YmJiYjI=",
+        "title":"Kriegsschauplatzkarte con Cuba: Mittel-Amerila, Spanien und die Vereinigten-Staaten"},
+      {
+        "id":"Mi1mNjc4MDVmNS04ZWIyLTRjYzEtOWIzNi1jNWJmOTYzYzQ2NWU=",
+        "title":"Map of Cuba"},
+      {
+        "id":"Mi1kMGJiMGY5ZS04Nzc4LTQwYjItYTg5NC0xM2EzY2Y1YTI4MDY=",
+        "title":"Cuba. 7-69"},
+      {
+        "id":"SXRlbS1kNzJiOWM5ZS01N2VhLTRkZGEtOTE0MS1kZWMxMjgyZDNkNWI=",
+        "title":"Carta de la república de Cuba"},
+      {
+        "id":"SXRlbS0zNWE4MWM0ZS0xN2M1LTRlNTAtOTBmYi0wZDFmNTc3MTBmMTg=",
+        "title":"Map of Cuba Compiled from Chart E U.S. Coast and Geodetic Survey"},
+      {
+        "id":"SXRlbS00ZDk3ZGIxOC02ODEzLTQyMWItODdjNy1lYjFlNThjZGFiZDM=",
+        "title":"Cuba"},
+      {
+        "id":"SXRlbS1mZDYyZTJjZC1kNjBmLTRhMmUtYTI4OC03YmM1ZjZkMzIxNzU=",
+        "title":"Plano de la Habana"},
+      {
+        "id":"SXRlbS0wMDY0YTZhYi1mYzc0LTRhMDUtYTk1ZS0xNzJjMDM1YmJiYjI=",
+        "title":"Kriegsschauplatzkarte con Cuba: Mittel-Amerila, Spanien und die Vereinigten-Staaten"},
+      {
+        "id":"SXRlbS01NzAwOWE0NC1hMGUwLTQ2NzEtYTE4MS0yYWQyZjBiMWI0MWU=",
+        "title":"Cuba"},
+      {
+        "id":"SXRlbS00MjBiNmU1Zi03OGMzLTRkYjEtOTRlMy1iNTdmN2Y3NDQ0M2Y=",
+        "title":"Plano de la Ciudad de Guantanamo: Censo 1953"},
+      {
+        "id":"SXRlbS05YjEwYzc4My05YTAxLTRlZDktYjE5NS00MmM0OGE2NGI0NmQ=",
+        "title":"Soil map of Cuba: 1928"},
+      {
+        "id":"SXRlbS1lOGE0N2VhZS0yZDcyLTQyMzItYTE5Zi01Y2ZiYjU3MzUyMjk=",
+        "title":"Republica ed Cuba Provincia de Matanzas"},
+      {
+        "id":"SXRlbS05ZGY1YjQwZC1mNWQyLTRhMjctODgwOS00NmViNjM0NjAzYjM=",
+        "title":"Peninsula de Zapata"},
+      {
+        "id":"SXRlbS1mZGYwMGY5Mi1mNzc1LTQyZmYtYTdhNS1hMDA2Yjg3NDFlZmM=",
+        "title":"Hammond's map of Cuba"},
+      {
+        "id":"SXRlbS1kNTdmY2E1MC1iZWUzLTRiZGUtYTFkNy1iMzgzZGRhYmYxMGY=",
+        "title":"Cuba"},
+      {
+        "id":"SXRlbS05MTgzNGQ0NS00ZmNhLTQxYTItOWRjNy03ZGRhMDhjN2ExOTg=",
+        "title":"Cuba, Jamaica and Porto Rico"},
+      {
+        "id":"SXRlbS0yMjg5MjMyOS1hMjBhLTQyNWQtYjYzNi1hZWYzMGJhMmMzMDI=",
+        "title":"Los Suelos y la agricultura en el municipio de Candelaria"},
+      {
+        "id":"SXRlbS00OTk2MTIyNC1kMGJhLTQyNTUtYWFjNi1kOWI2NDc5YmMzYTM=",
+        "title":"United Fruit Sugar Company, Preston Division, division map"},
+      {
+        "id":"SXRlbS1kNGJjODVkMC00MzI0LTQ4NGUtYjU0NS00NmFhNzE1YTgyY2U=",
+        "title":"Los suelos y la agricultura en los municipios de San Antonio de Los Baños, La Salud y Quivicán"},
+      {
+        "id":"SXRlbS04NGMzZDdmNy1jYzIzLTQ5ZTUtYjVmZC03MTMxNjI1YzBmNjE=",
+        "title":"Cuba"},
+      {
+        "id":"SXRlbS1kMGJiMGY5ZS04Nzc4LTQwYjItYTg5NC0xM2EzY2Y1YTI4MDY=",
+        "title":"Cuba. 7-69"},
+      {
+        "id":"SXRlbS05MmJmMjg5MS0yNTE4LTRhZWItYjI1ZS1iYmNjNzc2YmYzOTQ=",
+        "title":"Pinar del Rio"},
+      {
+        "id":"SXRlbS00NWFjNzRmYi04MTY1LTRhNDUtOTY5NS1kZjQ5Y2FmNDA4MGE=",
+        "title":"Map of Cuba: its provinces, railroads, cities, towns, harbors, bays, etc. also southern Florida and neighboring islands of the West Indies"},
+      {
+        "id":"SXRlbS1mNjc4MDVmNS04ZWIyLTRjYzEtOWIzNi1jNWJmOTYzYzQ2NWU=",
+        "title":"Map of Cuba"},
+      {
+        "id":"SXRlbS1lNzk2NmY3OS01NTY2LTRhYmYtOWFlMC02MjQxM2U4YTBiYWI=",
+        "title":"Los Suelos y la agricultura en el municipio de Artemisa"},
+      {
+        "id":"SXRlbS1mMjQ0Y2YwZS01Y2E2LTQ4ZjYtYTcwMC0zMmI2NGM2ZGVjNWM=",
+        "title":"Johnson's Cuba, Jamaica and Porto Rico"},
+      {
+        "id":"SXRlbS0yMjUwZWRiNC04MDY2LTQyMDEtYjExNi1kMDI0MTVmNjY5NDc=",
+        "title":"Plan of sugar centrals on island of Cuba"},
+      {
+        "id":"SXRlbS1hZWRiNTIwOS0yMmJhLTQyMGYtYTE3ZC1mMmQxNjY4NjA2Yzg=",
+        "title":"Camaguey"},
+      {
+        "id":"SXRlbS00MmMxM2NjYS1lMjMwLTRiYzctYjIwYy03OTIwMDZiNWE5NDg=",
+        "title":"Carte du Mexique et pays limitrophes situés au nord et à l'est"},
+      {
+        "id":"SXRlbS01OTNhN2RhZS03MGQwLTRlNmEtYjU1Mi0xZTNkNTNkMWZhYmQ=",
+        "title":"Los Suelos y la agricultura en los municipios de San Cristobal y Los Palacios"},
+      {
+        "id":"SXRlbS00Y2NhNDdjNi02ZDIxLTQ4ZGItOGE5OS1lMGJjNjg4YzE1MTE=",
+        "title":"Matanzas"},
+      {
+        "id":"SXRlbS0wMTY2MWQ0Yy1lOWFmLTQ5ODYtYmRlYi0zM2U5NjQxMjIzYzk=",
+        "title":"Isla de Cuba"},
+      {
+        "id":"SXRlbS0xMGU0ODQzOS1lNTAyLTQyOTYtOGE5Yy03NjIxY2FlMjYxZTQ=",
+        "title":"Cuba, Jamaica and the Bahama Islands"},
+      {
+        "id":"SXRlbS0xYmYzNjdjMy04ZmVjLTRlNTctYjIxZi1lOTA4NTY5Njk4ZjM=",
+        "title":"Santa Clara"},
+      {
+        "id":"SXRlbS0zYzMzMTBkZi0yOTRiLTQ3YWUtODU1Ny0wYTNhODlhYjBiMTQ=",
+        "title":"War map and history of Cuba: including the opening of the American-Spanish War"},
+      {
+        "id":"SXRlbS00YjZjY2UzNy05MDlmLTQ3OWQtYTdlMS0wZjIxYzIyYTE3MzY=",
+        "title":"Republica de Cuba Provincia de la Habana"},
+      {
+        "id":"SXRlbS1lNDQxOGU4Mi1kYjZhLTQxNTctOGMwOS1iMWI5ZTY5NzNjNWU=",
+        "title":"Los Suelos y la agricultura en los municipios de Alquizar y de Güira de Melena"},
+      {
+        "id":"SXRlbS05OWZjNDc4ZS0zZDNjLTRkNTMtOTgxOC1iM2RhZDFmMTYxYzQ=",
+        "title":"Cuba"},
+      {
+        "id":"SXRlbS1lNTFlZjExMC0yZWU1LTRiOGItOTJmNC00NjFhNjI3OWNlNzk=",
+        "title":"Republica de Cuba: map of the central highway and auxiliary roads = mapa de la carreteras auxiliares"},
+      {
+        "id":"SXRlbS1jM2MxOWI5Yi1iZDQ0LTRjNDctOGYyNC04NDZjNzk1ODc0ZDE=",
+        "title":"Mapa de las carreteras de la República de Cuba"},
+      {
+        "id":"SXRlbS1hM2E5MGMxNi1kYTI4LTRmODktOWI4OC0yYjhkMDVhZWEyYmU=",
+        "title":"Mapa de Cuba"},
+      {
+        "id":"SXRlbS0yZmJmYjhkMS1kNTEwLTQ4MTAtOTBlNC02MGI4ZmYxZjZlYzU=",
+        "title":"Official war maps: latest indexed map of the world, Cuba, Santo Domingo, Puerto Rico, West Indies, China and Philippine Islands, also other information of national interest"},
+      {
+        "id":"SXRlbS05NDVjYThjZC0wNzgzLTQ3MWItYTdjMS04MmM2M2ZlNGQ2NDA=",
+        "title":"Mapa mudo de la isla de Cuba"},
+      {
+        "id":"SXRlbS00MTdiYjBjMi1mNDc0LTQyMWMtOWMxYi1iNzVlMmFhZjcwMGI=",
+        "title":"Map of principal railroads of Cuba"},
+      {
+        "id":"SXRlbS0yNTI1ZDdhMi1mNGY5LTQ2ZDQtODlmNi02ZGZjY2IzMDQwYTc=",
+        "title":"Cuba, administrative divisions"},
+      {
+        "id":"SXRlbS1kN2JjMzA2ZC0yZjhmLTQ5OGQtYmFiMi0wNTI4NjI0NTg1OTQ=",
+        "title":"La Habana, guía general de la ciudad"},
+      {
+        "id":"SXRlbS02MTUxN2Y1MS00YjQ5LTRmMGEtYTZhZS1jZjU4MDUwMGIxNzY=",
+        "title":"Cuba"},
+      {
+        "id":"SXRlbS1kOGM0MDAxNC1kODNmLTQ0OTUtOTE5Yy01OGYxOTQxMTgxY2M=",
+        "title":"Cuban administrative units"},
+      {
+        "id":"SXRlbS05NzdkOWNjMS1kZGIxLTQyYjEtODQxMi0zMjU0NjczZGVkNmI=",
+        "title":"Westindien und Zentralamerika"},
+      {
+        "id":"SXRlbS00ZjMzOGE1Ny1hZmRkLTQ3NjItYmVkOC05ZjQ2OWM2NGIzYWU=",
+        "title":"Cuba 1:50,000: Santiago de Cuba"},
+      {
+        "id":"SXRlbS1iYWZiNTlkNS02MjU1LTRjZTEtYjYzNy1hMTA5MzI5Y2Q5MTY=",
+        "title":"Habana"},
+      {
+        "id":"SXRlbS1kY2ExMmEwNy0zYjFmLTQ0ODYtYjEwNi0yZjU0ZDAyZGQ5NGY=",
+        "title":"Cuba"}]
+  },
+  "facet_counts":{
+    "facet_queries":{},
+    "facet_fields":{},
+    "facet_ranges":{},
+    "facet_intervals":{},
+    "facet_heatmaps":{}},
+  "spellcheck":{
+    "suggestions":[],
+    "correctlySpelled":true}}
